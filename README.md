@@ -12,3 +12,5 @@
 *   *Data*: `Bow (weapon) Images`
 *   *Models*: `ResNet50V2`, `InceptionV3`, `DenseNet121`
 *   *Key libraries used*: `TensorFlow Keras`, `PIL`, `Scikit-Learn`
+
+Note: For testing and demo, see or run `Code/Ensemble123.ipynb`
